@@ -1,0 +1,18 @@
+{
+  "name": "create-subatomic-app",
+  "version": "1.0.0",
+  "description": "Creates the boilerplate for a subatomic.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-subatomic-app": "bin/install.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ora": "^7.0.1"
+  }
+}
